@@ -1,4 +1,4 @@
-# Sliding Puzzles Gmae
+# Sliding Puzzles Game
 
 This project is designed to solve sliding puzzles using Dijkstra's algorithm to find the shortest path from the starting point ("S") to the finish ("F"). In this type of puzzle, the player navigates a grid where movement is influenced by frictionless ice except for walls and rocks (labelled "0").
 
