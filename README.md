@@ -2,6 +2,10 @@
 
 This project is designed to solve sliding puzzles using Dijkstra's algorithm to find the shortest path from the starting point ("S") to the finish ("F"). In this type of puzzle, the player navigates a grid where movement is influenced by frictionless ice except for walls and rocks (labelled "0").
 
+## Video Demonstration
+
+https://github.com/SathruwanCooray/Sliding_Puzzle_Game/assets/150252729/576534dd-3ca2-4134-aa88-cb25b154c751
+
 ## Overview
 
 Sliding puzzles involve navigating from "S" to "F" while encountering walls and rocks that affect movement. The algorithm used here ensures efficient pathfinding by considering all possible movements and obstacles.
